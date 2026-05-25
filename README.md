@@ -75,7 +75,7 @@ Priming front-loads that answer. The protocol reads the project's own descriptio
 
 The priming step does not explore deeply or carry state forward. Those are separate jobs with their own tools:
 
-- For deep, on-demand exploration of an unfamiliar codebase, see [`explore-code-skills`](https://github.com/HermeticOrmus/explore-code-skills).
+- For deep, on-demand exploration of an unfamiliar codebase, see [`code-comprehension-skills`](https://github.com/HermeticOrmus/code-comprehension-skills).
 - For carrying state across sessions instead of rebuilding it each time, see [`session-handoff-skills`](https://github.com/HermeticOrmus/session-handoff-skills).
 
 Priming is the fast, every-session orientation; exploration is the deep dive; handoff is the bridge between sessions.
@@ -104,7 +104,7 @@ Collapse the above into a short summary: one line on what the project is, one on
 
 ## See also
 
-- [`explore-code-skills`](https://github.com/HermeticOrmus/explore-code-skills): deep, on-demand exploration of an unfamiliar codebase, beyond the fast priming pass
+- [`code-comprehension-skills`](https://github.com/HermeticOrmus/code-comprehension-skills): deep, on-demand exploration of an unfamiliar codebase, beyond the fast priming pass
 - [`session-handoff-skills`](https://github.com/HermeticOrmus/session-handoff-skills): carry state across sessions so the next one resumes instead of re-priming
 - [`vibe-engineer-skills`](https://github.com/HermeticOrmus/vibe-engineer-skills): how to behave when directing AI codegen
 - [`andrej-karpathy-skills`](https://github.com/HermeticOrmus/andrej-karpathy-skills): how Claude should behave when writing code
